@@ -88,7 +88,7 @@ def scan(links):
 paths = [] #list of paths
 def get_paths(type):
     try:
-        with open('paths.txt','r') as wordlist: #opens paths.txt and grabs links according to the type arguemnt
+        with open('path.txt','r') as wordlist: #opens paths.txt and grabs links according to the type arguemnt
             for path in wordlist: #too boring to describe
                 path = str(path.replace("\n",""))
                 try:
