@@ -26,6 +26,7 @@ print ('''\033[93m-Mrs_Ch4N
 -W.I.M
 -Mr.H4rd
 -F4DL1 G4N5
+-Vins_Joe
 -ZeeX_IND
 -Cyber_DARKdraw
 -CyberXcry
